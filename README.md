@@ -1,3 +1,2 @@
 # invasion mod
-GUI
-Mob AI
+GUI,Mob AI
